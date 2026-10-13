@@ -1,0 +1,33 @@
+
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>tarabzonspor</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: #f8f7f8;
+      border-top: 12px solid #6b102b;
+      border-bottom: 12px solid #1769aa;
+      color: #6b102b;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      padding: 20px;
+      text-align: center;
+      font-size: clamp(40px, 10vw, 100px);
+      font-weight: 900;
+      overflow-wrap: anywhere;
+    }
+  </style>
+</head>
+<body>
+  <h1>tarabzonspor</h1>
+</body>
+</html>
