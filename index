@@ -1,0 +1,31 @@
+
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>tarabzonspor</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f8f7f8;
+      border-top: 12px solid #6b102b;
+      border-bottom: 12px solid #1769aa;
+      color: #6b102b;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-size: clamp(40px, 10vw, 100px);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>tarabzonspor</h1>
+</body>
+</html>
+    
